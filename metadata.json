@@ -1,0 +1,6 @@
+{
+  "name": "SkillBridge - Student Skill & Internship Management System",
+  "description": "Comprehensive TYBBA(CA) final year project with Student, Company, and Admin portals, real-time application tracking, skill assessments, resume builder, and XAMPP/MySQL exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
